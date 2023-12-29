@@ -12,4 +12,4 @@ The main goals of this personal project are the following:
 2. Build a desktop application with Tauri to play Minecraft with my friends as we wish, with no central
 server whatsoever.
 
-![Main screen](../src/assets/screenshots/Main_screen.png)
+![Main screen](src/assets/screenshots/Main_screen.png)
